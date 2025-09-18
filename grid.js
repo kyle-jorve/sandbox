@@ -1,5 +1,3 @@
-// grid puzzle
-
 function eliminateBlock(grid, block) {
 	grid.forEach((row) =>
 		row.forEach((col, index) => {
